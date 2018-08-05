@@ -12,6 +12,7 @@ public class Main {
         userInput = userInput * userInput;
 
 	    System.out.println("Your number squared is " + userInput);
+	    System.out.println("Thanks for trying my program");
 
 
     }
